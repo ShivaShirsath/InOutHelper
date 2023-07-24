@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Extension [0]",
+  "version": "0.0.1",
+  "offline_enabled": true,
+  "action": {
+    "default_icon": {
+      "32": "images/ic_32.png"
+    },
+    "default_title": "Hello World !",
+    "default_popup": "index.html"
+  }
+}
